@@ -1,0 +1,18 @@
+<HTML>
+		<HEAD>
+		</HEAD>
+		<BODY>
+
+			FUNCIONES
+
+			<FORM>
+				1RA: <INPUT TYPE="TEXT" NAME="ONE"/>
+				2DA: <INPUT TYPE="TEXT" NAME="TWO"/>
+				3RA: <INPUT TYPE="TEXT" NAME="THREE"/>
+				4TA: <INPUT TYPE="TEXT" NAME="FOUR"/>
+				5TA: <INPUT TYPE="TEXT" NAME="FIVE"/>
+			</FORM>
+
+		</BODY>
+
+</HTML>
